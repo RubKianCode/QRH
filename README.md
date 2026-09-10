@@ -22,7 +22,8 @@ This runbook uses an **Aviation QRH Style** format. When you encounter a specifi
 | **กล้องไม่ติด** | จอดำ ไม่เห็น Live View กล้องดับ | [05-Camera-Error.md](./05-Camera-Error.md) |
 | **จอค้าง/จอแสดงผล** | ภาพล้นจอ UI เพี้ยน จอ 2 จอสลับกัน | [06-Display-Error.md](./06-Display-Error.md) |
 | **ตู้โฟโต้บูธไม่เปิด** | ไฟไม่เข้าตู้ คอมพิวเตอร์ดับ | [07-Power-Error.md](./07-Power-Error.md) |
-| **ไฟแฟลช/อุปกรณ์เสริม** | แฟลชไม่ยิง ไฟไม่ติด | [08-Accessory-Error.md](./08-Accessory-Error.md) |
+| **ไฟตกแต่ง/อุปกรณ์เสริม** | ไฟ LED ตกแต่งตู้ไม่ติด | [08-Accessory-Error.md](./08-Accessory-Error.md) |
+| **แฟลชไม่ยิง** | แฟลชไม่ยิงตอนถ่าย ทั้ง Wireless Trigger และสาย PC Sync | [09-Flash-Error.md](./09-Flash-Error.md) |
 
 ## 📝 Creating New Entries
 If you encounter a new recurring issue, use the **[00-TEMPLATE.md](./00-TEMPLATE.md)** file to create a new runbook entry in the same format.
