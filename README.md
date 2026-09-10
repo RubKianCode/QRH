@@ -1,8 +1,8 @@
-# 📚 ImageLand IT Support Runbook
+# ImageLand IT Support Runbook
 
 Welcome to the Quick Reference Handbook (QRH) for the ImageLand Photobooth application. This manual is designed for IT Support Staff to rapidly troubleshoot and resolve issues while on-site or during remote support sessions.
 
-## ⚠️ How to Use This Handbook
+## How to Use This Handbook
 
 This runbook uses an **Aviation QRH Style** format. When you encounter a specific issue, find the corresponding document below and follow the steps in order:
 
@@ -11,7 +11,7 @@ This runbook uses an **Aviation QRH Style** format. When you encounter a specifi
 3. **Follow the DIAGNOSTIC CHECKLIST:** Work through the checklist step-by-step to find the root cause.
 4. **Apply RESOLUTION:** Apply the permanent fix.
 
-## 📋 Table of Contents
+## Table of Contents
 
 | Issue | Description | File |
 | :--- | :--- | :--- |
@@ -24,5 +24,5 @@ This runbook uses an **Aviation QRH Style** format. When you encounter a specifi
 | **ตู้โฟโต้บูธไม่เปิด** | ไฟไม่เข้าตู้ คอมพิวเตอร์ดับ | [07-Power-Error.md](./07-Power-Error.md) |
 | **แฟลชไม่ยิง** | แฟลชไม่ยิงตอนถ่าย ทั้ง Wireless Trigger และสาย PC Sync | [09-Flash-Error.md](./09-Flash-Error.md) |
 
-## 📝 Creating New Entries
+## Creating New Entries
 If you encounter a new recurring issue, use the **[00-TEMPLATE.md](./00-TEMPLATE.md)** file to create a new runbook entry in the same format.
